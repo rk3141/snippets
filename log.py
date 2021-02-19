@@ -1,6 +1,6 @@
 class console:
 	@staticmethod
-	def log(self,msg=""):
+	def log(msg=""):
 		print(msg,end="")
 		
 #usage : console.log("Hello, World!\n")  
