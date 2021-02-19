@@ -3,4 +3,4 @@ class console:
 	def log(self,msg=""):
 		print(msg,end="")
 		
-#usage : console.log("Hello, World!\n")
+#usage : console.log("Hello, World!\n") 
